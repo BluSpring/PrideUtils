@@ -1,0 +1,9 @@
+# This is the storage file for PrideUtils to quickly store things like whether or not to hide players.
+
+players:
+  - uuid: 8667ba71b85a4004af54457a9734eed7
+    hideAll: true
+    hiddenPlayers:
+      - ec561538f3fd461daff5086b22154bce
+    shownPlayers:
+      - uregiui9o2390909340293et9802e24e

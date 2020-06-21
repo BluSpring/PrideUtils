@@ -1,0 +1,15 @@
+name: PrideUtils
+version: '1.0.0'
+main: app.hypurrr.minecraft.stantwtpride.prideutils.Init
+api-version: 1.15
+author: BluSpring
+commands:
+  play:
+    description: Play music
+    usage: /play
+  hide:
+    description: Hide players from your screen \:D
+    usage: /hide <playername>[,playername,...]
+  show:
+    description: Show players onto your screen \:D
+    usage: /show <playername>[,playername,...]
